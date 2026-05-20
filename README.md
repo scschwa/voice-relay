@@ -32,7 +32,7 @@ Set these as *User* env vars (recommended):
 
 ## Install
 ```powershell
-cd C:\Users\svenftw\.openclaw\workspace\voice-relay
+cd C:\Users\<UID>\.openclaw\workspace\voice-relay
 npm install
 ```
 
